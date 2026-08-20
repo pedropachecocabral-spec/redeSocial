@@ -7,6 +7,6 @@ const likeSvg = likeBtn.querySelector("svg")
 
 //localiza o contador
 
- let textNode =array.from(likeBtn.childNodes).find(node)=> node.Type
+ let textNode =array.from(likeBtn.childNodes).find(node)=> node.TypE
 }
 
